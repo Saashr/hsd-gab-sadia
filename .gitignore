@@ -19,8 +19,6 @@ new_train_embeddings.npy
 *resampled_data2_1/
 *resampled_data3_1/
 
-ghc_test.tsv
-ghc_train.tsv
 new_train_embeddings.npy
 new_train_labels.npy
 resampled_data/
